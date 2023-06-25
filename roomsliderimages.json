@@ -1,0 +1,30 @@
+[
+    {
+        "_id": 1,
+        "image_url": "https://balichalo.com/wp-content/uploads/2020/08/Best-food-in-bali-17.jpg"
+    },
+    {
+        "_id": 2,
+        "image_url": "https://i.pinimg.com/originals/a5/eb/57/a5eb578a2e70f6662772a2f1b5538fa5.jpg"
+    },
+    {
+        "_id": 3,
+        "image_url": "https://i.pinimg.com/originals/35/5a/c8/355ac85bdfa81d6c514f06195dba5809.jpg"
+    },
+    {
+        "_id": 4,
+        "image_url": "https://img.freepik.com/free-photo/luxury-classic-modern-bedroom-suite-hotel_105762-1787.jpg"
+    },
+    {
+        "_id": 5,
+        "image_url": "https://thatssotampa.com/wp-content/uploads/2023/02/UL-ThePendryResidences-02-UnitA_BedRoom-01B-1-1024x588.jpg"
+    },
+    {
+        "_id": 6,
+        "image_url": "https://thatssotampa.com/wp-content/uploads/2023/02/UL-ThePendryResidences-03-UnitA1_Living-02_NWSP-1-1024x563.jpg"
+    },
+    {
+        "_id": 7,
+        "image_url": "https://i0.wp.com/theluxurytravelexpert.com/wp-content/uploads/2018/02/LE-ROYAL-MONCEAU-RAFFLES-PARIS.jpg?ssl=1"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Gourmet Burger",
+        "img_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z291cm1ldCUyMGJ1cmdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "price": 12.99,
+        "love_react": 0,
+        "total_ratings": 0
+    },
+    {
+        "name": "Mushroom Risotto",
+        "img_url": "https://media.istockphoto.com/id/1221032000/photo/risotto-with-mushrooms-in-a-plate.jpg?s=612x612&w=0&k=20&c=KNdNtL0WyUfBHICZhGVTLhA1TSG2bWohahdmRzYuTRw=",
+        "price": 14.50,
+        "love_react": 0,
+        "total_ratings": 0
+    },
+    {
+        "name": "Grilled Steak",
+        "img_url": "https://media.istockphoto.com/id/520421898/photo/beef-steaks-on-the-grill.jpg?s=612x612&w=0&k=20&c=x66gAivz2_zG-E-I963_VwySZQrNHXjD2Q0PW3NXeL4=",
+        "price": 23.99,
+        "love_react": 0,
+        "total_ratings": 0
+    },
+    {
+        "name": "Caesar Salad",
+        "img_url": "https://thumbs.dreamstime.com/b/healthy-grilled-chicken-caesar-salad-cheese-croutons-49277045.jpg",
+        "price": 9.99,
+        "love_react": 100000,
+        "total_ratings": 0
+    },
+    {
+        "name": "Seafood Linguine",
+        "img_url": "https://media.istockphoto.com/id/183869552/photo/pasta-with-king-prawns.jpg?s=612x612&w=0&k=20&c=aLTrQ16nUuIEnoP6_haHbJ9ZZMjV7xyuhIBPG4ipFeo=",
+        "price": 18.75,
+        "love_react": 0,
+        "total_ratings": 0
+    },
+    {
+        "name": "Lobster Bisque",
+        "img_url": "https://keviniscooking.com/wp-content/uploads/2018/02/How-to-Make-Creamy-Lobster-Bisque-square.jpg",
+        "price": 15.25,
+        "love_react": 0,
+        "total_ratings": 0
+    },
+    {
+        "name": "BBQ Ribs",
+        "img_url": "https://media.istockphoto.com/id/1190400491/photo/pork-loin-ribs-served-on-chopping-board.jpg?s=612x612&w=0&k=20&c=bnYLqE8aKPwg2tmdh4vZjXKKgmpjxkjAud2Ee0JrXhw=",
+        "price": 19.99,
+        "love_react": 0,
+        "total_ratings": 0
+    },
+    {
+        "name": "Margherita Pizza",
+        "img_url": "https://thumbs.dreamstime.com/z/pizza-margherita-27409337.jpg",
+        "price": 20,
+        "love_react": 0,
+        "total_ratings": 0
+    },
+    {
+        "name": "Sushi Platter",
+        "img_url": "https://www.shutterstock.com/image-photo/big-set-asian-food-sushi-260nw-1994301509.jpg",
+        "price": 28.50,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Chili Con Carne",
+        "img_url": "https://media.istockphoto.com/id/486539406/photo/homemade-organic-vegetarian-chili.jpg?s=612x612&w=0&k=20&c=SjhEpH2cRCRl3ITHsvBdrxXHA0gngZBvMrfVPGuT2fQ=",
+        "price": 12.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Pad Thai",
+        "img_url": "https://media.istockphoto.com/id/156289908/photo/pad-thai.jpg?s=612x612&w=0&k=20&c=Cph9mZ-1bW5xMnxqlL-fhem9mTH8vTChwJa9PO2jfrk=",
+        "price": 16.25,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Fish and Chips",
+        "img_url": "https://i2-prod.mylondon.news/incoming/article21951658.ece/ALTERNATES/s615/1_big-portion-fish-n-chips.jpg",
+        "price": 14.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "img_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Chicken-Tikka-Masala-square-FS-51.jpg",
+        "price": 17.75,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Beef Stroganoff",
+        "img_url": "https://media.istockphoto.com/id/523456979/photo/homemade-hearty-beef-stroganoff.jpg?s=1024x1024&w=is&k=20&c=0eb_8jIMYhwpU_RUk7UtMscvP6_7GbBDtL2U-w4X0ls=",
+        "price": 21.50,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Shrimp Scampi",
+        "img_url": "https://static01.nyt.com/images/2022/06/02/dining/ShrimpScampi_thumb/ShrimpScampi_thumb-threeByTwoMediumAt2X.jpg",
+        "price": 19.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Vegetable Curry",
+        "img_url": "https://media.istockphoto.com/id/1278584350/photo/veg-kolhapuri-in-black-bowl-on-dark-slate-table-top-indian-vegetable-curry-dish-vegetarian.jpg?s=612x612&w=0&k=20&c=J8J66FYYLs9tupC46-_de1qnASgaEsQn-yk3yW86DJ4=",
+        "price": 13.75,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Greek Salad",
+        "img_url": "https://www.jessicagavin.com/wp-content/uploads/2021/07/greek-salad-3-1200.jpg",
+        "price": 8.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Crispy Fried Chicken",
+        "img_url": "https://img.freepik.com/free-photo/crispy-fried-chicken-wooden-cutting-board_1150-20220.jpg",
+        "price": 16.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Pesto Pasta",
+        "img_url": "https://media.istockphoto.com/id/1257423813/photo/healthy-vegan-food-low-carb-dish-cooked-zucchini-noodles-with-basil-and-garlic-in-a-cast-iron.jpg?b=1&s=170667a&w=0&k=20&c=qi9c-S7w2LFyf2W_uTlS6qq9M1MJpbzII3n5KUS_fps=",
+        "price": 12.50,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Roast Beef Sandwich",
+        "img_url": "https://media.istockphoto.com/id/1004660122/photo/homemade-roast-beef-deli-sandwich.jpg?s=612x612&w=0&k=20&c=ToOETvU3zfDj6yrVNbDBE_5Ohfe5jjdE-3T4Z1ANWyk=",
+        "price": 8.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Teriyaki Salmon",
+        "img_url": "https://thumbs.dreamstime.com/b/teriyaki-salmon-dark-background-selective-focus-87511501.jpg",
+        "price": 22.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Veggie Burger",
+        "img_url": "https://media.istockphoto.com/id/1131352495/photo/veggie-burger.jpg?s=612x612&w=0&k=20&c=CjjrZTqgLiuVmkgyNfFOVklOHB81Ra2aWlckL8CjWV0=",
+        "price": 11.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Lemon Garlic Shrimp",
+        "img_url": "https://media.istockphoto.com/id/610557572/photo/shrimp-scampi.jpg?s=612x612&w=0&k=20&c=SaX_gD6NSlzuDA2NRTLjzjD6sP5UPdYdL-KiK75JZTY=",
+        "price": 18.25,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Taco Salad",
+        "img_url": "https://media.istockphoto.com/id/509081571/photo/beef-taco-salad.jpg?s=612x612&w=0&k=20&c=xdem73zQXDq8B1vd9dQqOruy6uTt-nq0XeTVIUCR1Fs=",
+        "price": 13.50,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Veal Parmesan",
+        "img_url": "https://media.istockphoto.com/id/609044752/photo/chicken-parmigiana-and-pasta-with-tomatoes-close-up.jpg?s=612x612&w=0&k=20&c=cAyEv-nwheYSy98BLLxz8egyobe2J1vZuCl3rYaNw_o=",
+        "price": 19.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Chicken Caesar Wrap",
+        "img_url": "https://media.istockphoto.com/id/1151273838/photo/caesar-roll-with-chicken.jpg?s=612x612&w=0&k=20&c=w-z7QEOx3Om37PvqDNkXbZOztLCJauVlttyrjphy9zk=",
+        "price": 10.75,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Clam Chowder",
+        "img_url": "https://img.taste.com.au/3XgYqp7f/taste/2016/11/fish-and-clam-chowder-88514-1.jpeg",
+        "price": 14.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Pho",
+        "img_url": "https://t4.ftcdn.net/jpg/01/10/73/63/360_F_110736391_SeqUiJn9eQpSytzZ0ccDmM8mvaUbfhvy.jpg",
+        "price": 11.50,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Roasted Duck",
+        "img_url": "https://www.thespruceeats.com/thmb/l7MbHyd49m-a0iWijIe6WzN4xlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/roast-duck-pure-deliciousness-913179-c20cb2d6d0a54f98bcb9f8ce2e14649c.jpg",
+        "price": 27.99,
+        "love_react": 0,
+        "ratings": 0
+    },
+    {
+        "name": "Caprese Salad",
+        "img_url": "https://img.freepik.com/free-photo/caprese-salad-healthy-meal-with-cherry-tomatoes-mozzarella-balls-basil-home-made-tasty-food-concept-tasty-healthy-vegetarian-meal_2829-7131.jpg",
+        "price": 9.50,
+        "love_react": 0,
+        "ratings": 0
+    }
+]

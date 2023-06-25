@@ -1,74 +1,92 @@
 [
     {
-        "id": 1,
         "bedImgUrl": "https://s3.envato.com/files/301739218/3097p.jpg",
         "roomStatus": "Available",
         "availableRooms": 3,
         "roomClassification": "Standard",
-        "roomPrice": 100
+        "roomPrice": 100,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     },
     {
-        "id": 2,
         "bedImgUrl": "https://img.freepik.com/premium-photo/luxury-classic-modern-bedroom-suite-hotel_105762-1904.jpg",
         "roomStatus": "Booked",
         "availableRooms": 0,
         "roomClassification": "Deluxe",
-        "roomPrice": 150
+        "roomPrice": 150,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     },
     {
-        "id": 3,
         "bedImgUrl": "https://media.designcafe.com/wp-content/uploads/2019/11/17054922/how-to-make-your-bedroom-feel-like-five-star-hotel-intro.jpg",
         "roomStatus": "Available",
         "availableRooms": 2,
         "roomClassification": "Standard",
-        "roomPrice": 200
+        "roomPrice": 200,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     },
     {
-        "id": 4,
         "bedImgUrl": "https://planndesign.sgp1.digitaloceanspaces.com/article/transitional-bedroom_7.jpg",
         "roomStatus": "Unavailable",
         "availableRooms": 0,
         "roomClassification": "Deluxe",
-        "roomPrice": 125
+        "roomPrice": 125,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     },
     {
-        "id": 5,
         "bedImgUrl": "https://d3m2b6ge3mz697.cloudfront.net/media/mageplaza/blog/post/f/e/featureimage-luxury-hotel-bed.jpg",
         "roomStatus": "Available",
         "availableRooms": 4,
         "roomClassification": "Standard",
-        "roomPrice": 180
+        "roomPrice": 180,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     },
     {
-        "id": 6,
         "bedImgUrl": "https://planndesign.sgp1.digitaloceanspaces.com/article/modern-bedroom_2.jpg",
         "roomStatus": "Booked",
         "availableRooms": 0,
         "roomClassification": "Deluxe",
-        "roomPrice": 220
+        "roomPrice": 220,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     },
     {
-        "id": 7,
         "bedImgUrl": "https://planndesign.sgp1.digitaloceanspaces.com/sites/default/files/articles/screenshot_21_8294fe4c69.png",
         "roomStatus": "Available",
         "availableRooms": 5,
         "roomClassification": "Luxury",
-        "roomPrice": 300
+        "roomPrice": 300,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     },
     {
-        "id": 8,
         "bedImgUrl": "https://planndesign.sgp1.digitaloceanspaces.com/sites/default/files/articles/screenshot_21_8294fe4c69.png",
         "roomStatus": "Unavailable",
         "availableRooms": 0,
         "roomClassification": "Luxury",
-        "roomPrice": 300
+        "roomPrice": 300,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     },
     {
-        "id": 9,
         "bedImgUrl": "https://i.pinimg.com/originals/6f/72/35/6f7235447ca2c37edf7df110269d363b.jpg",
         "roomStatus": "Available",
         "availableRooms": 1,
         "roomClassification": "Standard",
-        "roomPrice": 250
+        "roomPrice": 250,
+        "bookmark": 0,
+        "shared": 0,
+        "total_ratings": 0
     }
 ]
